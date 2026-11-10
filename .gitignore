@@ -1,0 +1,5 @@
+.sass-cache/
+_site/
+.cache/
+.jekyll-cache/
+*.log
